@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button8" type="id" />
+    <item name="buttonBackSpace" type="id" />
+    <item name="button9" type="id" />
+    <item name="buttonEqualTo" type="id" />
+    <item name="problem_display" type="id" />
+    <item name="button4" type="id" />
+    <item name="buttonModulus" type="id" />
+    <item name="button7" type="id" />
+    <item name="button5" type="id" />
+    <item name="buttonAddition" type="id" />
+    <item name="button6" type="id" />
+    <item name="button3" type="id" />
+    <item name="button1" type="id" />
+    <item name="buttonPower" type="id" />
+    <item name="buttonDivision" type="id" />
+    <item name="button2" type="id" />
+    <item name="buttonMultiplication" type="id" />
+    <item name="button0" type="id" />
+    <item name="buttonDot" type="id" />
+    <item name="buttonSubtract" type="id" />
+    <item name="buttonClear" type="id" />
+    <item name="result" type="id" />
+</resources>
